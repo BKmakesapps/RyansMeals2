@@ -4,6 +4,7 @@
 // Description This Meal Suggester app is a simple Android application that helps someone decide what to eat based on the time of day. A person can enter either breakfast lunch and dinner and the app will display a list of meal suggestions for that specific time. The app includes a search button to display meal recommendations and a reset button to clear the input and results. 
 
 // link to youtube video: 
+https://youtube.com/shorts/6UXGfxMlqFw?si=KhACxqv-8DDX64dG
 
 //images of the code 
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/2f79e1fc-2c01-4d79-a2fc-6f0210c322dd" />
