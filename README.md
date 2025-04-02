@@ -1,7 +1,7 @@
 "# RyansMeals2" 
 # RyansMeals2
 
-// Description This Meal Suggester app is a simple Android application that helps someone decide what to eat based on the time of day. A person can enter either breakfast lunch and dinner and the app will display a list of meal suggestions for that specific time. The app includes a search button to display meal recommendations and a reset button to clear the input and results. 
+// This Meal Suggester app is a simple Android application that helps someone decide what to eat based on the time of day. A person can enter either breakfast lunch and dinner and the app will display a list of meal suggestions for that specific time. The app includes a search button to display meal recommendations and a reset button to clear the input and results. 
 
 // link to youtube video: 
 https://youtube.com/shorts/6UXGfxMlqFw?si=KhACxqv-8DDX64dG
