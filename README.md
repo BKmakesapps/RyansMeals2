@@ -7,8 +7,8 @@
 https://youtube.com/shorts/6UXGfxMlqFw?si=KhACxqv-8DDX64dG
 
 //images of the code 
-<img width="955" alt="image" src="https://github.com/user-attachments/assets/2f79e1fc-2c01-4d79-a2fc-6f0210c322dd" />
-<img width="902" alt="image" src="https://github.com/user-attachments/assets/2ff44ffa-299b-4158-b45e-1c842ca05f12" />
+<img width="922" alt="image" src="https://github.com/user-attachments/assets/76b0238e-b807-4b29-b928-163035fc0c58" />
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/e34203a2-9d22-47bc-953f-e47e2b9a182a" />
 <img width="920" alt="image" src="https://github.com/user-attachments/assets/909737d0-0617-4335-85ff-2ec63b6a2d15" />
 
 //Link to the repository 
